@@ -163,8 +163,13 @@ button {
     opacity: .51;
 }
 
-/* button#fwrd_btn{
-    position: relative;
-    align-self: flex-end;
-    margin-left: 2em;
-} */
+#circle-container .circle-wrapper-7 .back{
+ padding: 15px;
+    padding-top: 25px;
+}
+   
+
+#circle-container .circle-wrapper-2 .back{
+ padding: 15px;
+}
+   
